@@ -15,6 +15,6 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = ">= 2.1.0"
 
   spec.add_dependency "rest-client", "~> 2.0"
-  spec.add_dependency "sinatra", "2.0.0.beta2"
+  spec.add_dependency "sinatra", "2.0.0.rc1"
   spec.add_dependency "mime-types"
 end
